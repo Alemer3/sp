@@ -1,26 +1,37 @@
-В вветке main представлены скрипты для работы чата
+# Основная информация
 
-Библиотеки необходимые для работы скрипта server.py:
+![Python-3.10.6](https://img.shields.io/badge/Python-v3.10.6-blue?style=for-the-badge)
 
-import socket
-from threading import Thread
-Библиотеки необходимые для работы скрипта client.py:
+---
 
-import socket
-import random
-from threading import Thread
-from datetime import datetime
-from colorama import Fore, init, Back
-Библиотеки необходимые для работы скрипта client_gui.py:
++ lab1 ([Лаба №1](https://github.com/Alemer3/sp/laba%231))
++ lab2 ([Лаба №2](https://github.com/Alemer3/sp/lab2))
++ lab3 ([Лаба №3](https://github.com/Alemer3/sp/laba%233))
++ lab4 ([Лаба №4](https://github.com/Alemer3/sp/laba%234))
 
-import customtkinter as ct
-import tkinter
-from tkinter import messagebox
-from tkinter import filedialog
-from PIL import Image
+Для работы ***lab1.py*** потребуются следующие библиотеки: 
+
+```python
 import os
 import socket
-from threading import Thread
-from datetime import datetime
-from colorama import Fore, init, Back
-P.S. Данный репозиторий был создан для сдачи лабораторных работ по предмету "Сетевое программирование"
+import re, uuid
+```
+
+Необходимые библиотеки для работы ***lab2.py***: 
+```python
+import socket
+import sys
+```
+
+Необходимо библиотеки для работы ***lab3.py***:
+
+```python 
+import requests
+```
+
+Необходимо библиотеки для работы ***lab4.py***:
+
+```python 
+import requests
+from bs4 import BeautifulSoup
+```

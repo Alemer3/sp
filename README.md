@@ -4,10 +4,11 @@
 
 ---
 
-+ lab1 ([Лаба №1](https://github.com/Alemer3/sp/laba%231))
-+ lab2 ([Лаба №2](https://github.com/Alemer3/sp/blob/main/2%20laba))
-+ lab3 ([Лаба №3](https://github.com/Alemer3/sp/laba%233))
-+ lab4 ([Лаба №4](https://github.com/Alemer3/sp/laba%234))
++ lab1 ([Лаба №1](https://github.com/Alemer3/sp/blob/main/Hello.py))
++ lab2 ([Лаба №2](https://github.com/Alemer3/sp/blob/main/2laba.py))
++ lab3 ([Лаба №3](https://github.com/Alemer3/sp/blob/main/3laba.py))
++ lab4 ([Лаба №4](https://github.com/Alemer3/sp/blob/main/4laba.py))
++ lab5 ([Лаба №5](https://github.com/Alemer3/sp/blob/main/5laba.py))
 
 Для работы ***lab1.py*** потребуются следующие библиотеки: 
 

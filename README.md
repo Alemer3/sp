@@ -5,7 +5,7 @@
 ---
 
 + lab1 ([Лаба №1](https://github.com/Alemer3/sp/laba%231))
-+ lab2 ([Лаба №2](https://github.com/Alemer3/sp/lab2))
++ lab2 ([Лаба №2](https://github.com/Alemer3/sp/blob/main/2%20laba))
 + lab3 ([Лаба №3](https://github.com/Alemer3/sp/laba%233))
 + lab4 ([Лаба №4](https://github.com/Alemer3/sp/laba%234))
 

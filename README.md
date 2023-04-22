@@ -46,6 +46,6 @@ from bs4 import BeautifulSoup
 + screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(104).png))
 
 Скриншоты работы 5laba.py
-+ screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/4%20лаба.jpg))
-+ screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/EHe1gbZVefE-1.jpg))
-
++ screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(105).png))
++ screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(106).png))
++ screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(107).png))

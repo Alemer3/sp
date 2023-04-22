@@ -36,3 +36,4 @@ import requests
 import requests
 from bs4 import BeautifulSoup
 ```
+Скриншоты работы 5laba.py

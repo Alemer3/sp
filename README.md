@@ -37,8 +37,13 @@ import requests
 from bs4 import BeautifulSoup
 ```
 Скриншоты работы lab4.py
-+ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main//53UqSQr99JY.jpg))
-+ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main//JhQzfgf04es.jpg))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(99).png))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(98).png))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(100).png))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(101).png))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(102).png))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(103).png))
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/Снимок%20экрана%20(104).png))
 
 Скриншоты работы 5laba.py
 + screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/4%20лаба.jpg))

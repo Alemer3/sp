@@ -36,6 +36,9 @@ import requests
 import requests
 from bs4 import BeautifulSoup
 ```
+Скриншоты работы lab4.py
++ screen shot ([ скриншоты Лаба №4](https://github.com/Alemer3/sp/blob/main/4RmLDgdvltI.jpg))
+
 Скриншоты работы 5laba.py
 + screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/4RmLDgdvltI.jpg))
 + screen shot ([ скриншоты Лаба №5](https://github.com/Alemer3/sp/blob/main/EHe1gbZVefE-1.jpg))
